@@ -1,0 +1,76 @@
+body
+{
+width: 100%;
+margin: 0 auto;
+margin-left: 1%;
+margin-top: 2%;
+justify-content: center;
+background-color: rgb(186, 214, 238);
+box-shadow: 0 4px 8px #999;
+
+}
+
+label{
+width: 80px;
+display: inline-block;
+
+
+
+}
+
+input, textarea { 
+width: 10%;    
+padding: 5px; 
+margin-bottom: 1em;
+font:1em sans-serif;
+margin-left: 7%;
+}
+
+fieldset {
+border:0;
+}
+
+input, textarea {
+border-radius: 5px;
+
+}
+
+.campo label {
+
+    margin: bottom 0.2em;
+    display: block;
+}
+
+fieldset.grupo {
+
+    float: left;
+    margin-right: 1em;
+
+}
+
+.campo input[tapy="texte"], .campo textearea{
+    padding: 0.2em;
+    border:1px solid steelblue;
+    display: block;
+}
+.campo inpult :focus .campo textarea:focus{
+background-color: white;
+
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
