@@ -3,12 +3,12 @@
 # Sobre o Projeto
 O Projeto Itau-Tech-Cadastro tem como objetivo ser uma avaliação individual, com pré requisitos determinados, para a criação de uma pagina de Cadastro Pessoal de atração.
 ## Back End
-HTML, JS, CSS
+HTML / JS / CSS
 ## Front End
-HTML,CSS
+HTML / CSS
 ## Implantação em Produção
-Back end: VS Code
-Front end web:Netlify
+- Back end: VS Code
+- Front end web:Netlify
 # Autor
 Ciro Franco
-linkedin.com/in/ciro-sp-3256848b
+https://www.linkedin.com/in/ciro-sp-3256848b
